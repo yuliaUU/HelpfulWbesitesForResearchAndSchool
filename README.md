@@ -14,3 +14,7 @@ scite is a Brooklyn-based startup that helps researchers better discover and eva
 
 ![](https://lh3.googleusercontent.com/5bOQ0A5OJ8HFDv-Rj2SSXba4juvB7hqMkQBbP-eiX6ibSEFrPrstCxOwHzLX_xcUPCk6NLvvfC_qdtKJY7fkp9zVUZM=w128-h128-e365-rj-sc0x00ffffff)
 To acessed non-open source articles. Faster then logging in to your university library. 
+
+4. SnippIt : Your Research Assistant - 
+Google browser extension
+Fast way to take notes online. save the highlighted text with link to teh wenbbapge . works great for working with html webpages, but nt useful for pdfs online
